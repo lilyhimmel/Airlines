@@ -1,1 +1,20 @@
-L
+title: "Airline Safety"
+author: "Jay Boice"
+date: "2023-09-14"
+output: html_document
+
+Jay Boice
+https://github.com/fivethirtyeight/data/tree/master/airline-safety
+
+Safety of 56 different airlines between 1985-1999 and 2000-2014. 
+Including the total number of incidents, total number of fatal accidents, and total number of fatalities. 
+The passenger carrying capability is also shown. This is to show which airline has been the safest in the past, and therefore is more likely to be the safest in the present.
+
+airline - Name of airline
+avail_seat_km_per_week - available seat kilometers per week
+incidents_85_99 - number of incidents between 1985 and 1999
+fatal_accidents_85_99 - number of fatal accidents between 1985 and 1999
+fatalities_85_99 - number of fatalities between 1985 and 1999
+incidents_00_14 - number of incidents between 2000 and 2014
+fatal_accidents_00_14 - number of fatal accidents between 2000 and 2014
+fatalities_00_14 - number of fatalities between 2000 and 2014
